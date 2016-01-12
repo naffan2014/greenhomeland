@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Smart Screen &#187; Products</title>
+	<atom:link href="http://demo.highthemes.com/smartscreen/?post_type=product&#038;feed=rss2&#038;product_cat=laptops" rel="self" type="application/rss+xml" />
+	<link>http://demo.highthemes.com/smartscreen</link>
+	<description>Flexible responsive wordpress theme</description>
+	<lastBuildDate>Mon, 19 Jan 2015 10:30:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.8</generator>
+	<item>
+		<title>MacBook Pro</title>
+		<link>http://demo.highthemes.com/smartscreen/?product=macbook-pro</link>
+		<comments>http://demo.highthemes.com/smartscreen/?product=macbook-pro#comments</comments>
+		<pubDate>Sun, 23 Jun 2013 08:34:11 +0000</pubDate>
+		<dc:creator><![CDATA[John Smith]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.highthemes.com/smartscreen/?post_type=product&#038;p=2332</guid>
+		<description><![CDATA[Latest Intel mobile architecture Powered by the most advanced mobile processors from Intel, the new Core 2 Duo MacBook Pro is over 50% faster than the original Core Duo MacBook Pro and now supports up to 4GB of RAM. Leading-edge graphics The NVIDIA GeForce 8600M GT delivers exceptional graphics processing power. For the ultimate creative ...]]></description>
+				<content:encoded><![CDATA[<div>
+<div>
+<p><b>Latest Intel mobile architecture</b></p>
+<p>Powered by the most advanced mobile processors from Intel, the new Core 2 Duo MacBook Pro is over 50% faster than the original Core Duo MacBook Pro and now supports up to 4GB of RAM.</p>
+<p><b>Leading-edge graphics</b></p>
+<p>The NVIDIA GeForce 8600M GT delivers exceptional graphics processing power. For the ultimate creative canvas, you can even configure the 17-inch model with a 1920-by-1200 resolution display.</p>
+<p><b>Designed for life on the road</b></p>
+<p>Innovations such as a magnetic power connection and an illuminated keyboard with ambient light sensor put the MacBook Pro in a class by itself.</p>
+<p><b>Connect. Create. Communicate.</b></p>
+<p>Quickly set up a video conference with the built-in iSight camera. Control presentations and media from up to 30 feet away with the included Apple Remote. Connect to high-bandwidth peripherals with FireWire 800 and DVI.</p>
+<p><b>Next-generation wireless</b></p>
+<p>Featuring 802.11n wireless technology, the MacBook Pro delivers up to five times the performance and up to twice the range of previous-generation technologies.</p>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.highthemes.com/smartscreen/?feed=rss2&#038;p=2332</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

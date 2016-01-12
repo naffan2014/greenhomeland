@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: iPhone 4S</title>
+	<atom:link href="http://demo.highthemes.com/smartscreen/?product=iphone-4s&#038;feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://demo.highthemes.com/smartscreen/?product=iphone-4s</link>
+	<description>Flexible responsive wordpress theme</description>
+	<lastBuildDate>Tue, 19 May 2015 01:19:41 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.8</generator>
+	<item>
+		<title>By: John Smith</title>
+		<link>http://demo.highthemes.com/smartscreen/?product=iphone-4s#comment-50</link>
+		<dc:creator><![CDATA[John Smith]]></dc:creator>
+		<pubDate>Mon, 24 Jun 2013 08:01:06 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.highthemes.com/smartscreen/?post_type=product&#038;p=2317#comment-50</guid>
+		<description><![CDATA[iOS 7 developer concept is very bad! they gonna following android interface. I like older iOS interface. And i am not gonna update my iPhone 4s into iOS 7.]]></description>
+		<content:encoded><![CDATA[<p>iOS 7 developer concept is very bad! they gonna following android interface. I like older iOS interface. And i am not gonna update my iPhone 4s into iOS 7.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

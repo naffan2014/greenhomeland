@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Smart Screen &#187; Products</title>
+	<atom:link href="http://demo.highthemes.com/smartscreen/?post_type=product&#038;feed=rss2&#038;product_cat=shoes" rel="self" type="application/rss+xml" />
+	<link>http://demo.highthemes.com/smartscreen</link>
+	<description>Flexible responsive wordpress theme</description>
+	<lastBuildDate>Mon, 19 Jan 2015 10:30:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.8</generator>
+	<item>
+		<title>Mezlan Casanova</title>
+		<link>http://demo.highthemes.com/smartscreen/?product=allen-edmonds-walden</link>
+		<comments>http://demo.highthemes.com/smartscreen/?product=allen-edmonds-walden#comments</comments>
+		<pubDate>Sun, 23 Jun 2013 15:25:42 +0000</pubDate>
+		<dc:creator><![CDATA[John Smith]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.highthemes.com/smartscreen/?post_type=product&#038;p=2360</guid>
+		<description><![CDATA[Six-eyelet cap-toe balmoral. Full leather linings. Single oak leather sole. Custom heel. This style tends to run narrow. For an accurate fit we recommend purchasing a 1/2 size larger than you typically purchase. For example, if you normally purchase a size 7, we recommend purchasing a size 7 1/2.]]></description>
+				<content:encoded><![CDATA[<div id="tab-description">
+<p>Six-eyelet cap-toe balmoral. Full leather linings. Single oak leather sole. Custom heel.</p>
+<p>This style tends to run narrow. For an accurate fit we recommend purchasing a 1/2 size larger than you typically purchase. For example, if you normally purchase a size 7, we recommend purchasing a size 7 1/2.</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.highthemes.com/smartscreen/?feed=rss2&#038;p=2360</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

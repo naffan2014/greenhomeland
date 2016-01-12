@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<title>测试</title>
+<meta name="keywords" content="" />
+<meta name="description" content="test" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no,minimal-ui">
+
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+
+<!--_static-->
+<meta name="renderer" content="webkit"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico.html">
+<link rel="stylesheet" type="text/css" media="screen" href="assets/css/default.css" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="assets/css/swiper.min.css" />
+<script charset="utf-8" src="http://wpa.b.qq.com/cgi/wpa.php"></script>
+<script type="text/javascript" charset="utf-8" src="script/jquery/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="assets/js/common.js"></script>
+
+<!--[if lt IE 9]>
+<script src="/assets/js/trunk/html5.js"></script>
+<script src="/assets/js/trunk/css3-mediaqueries.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/ie8.css" />
+<![endif]-->
+<!--/_static-->
+
+</head>
+<body>
+
+<!--Header-->
+
+<header class="header">
+    
+<script type="text/javascript" charset="utf-8" src="script/artdialog/dialog-plus-min.js"></script>
+ <script>
+
+           //初始化规格窗口
+           function showSpecDialog() {
+               var d = top.dialog({
+                   id: 'specDialogId',
+                   padding: 0,
+                 
+ width: 1200,
+height:420,
+                   url: 'activitydate.html'
+               }).showModal();
+               //将容器对象传进去
+              
+           }
+       </script>
+  <div class="topexpress">
+    <div class="content">本店全国包邮<span class="monthactivity"><a href="javascript:void(0);" onclick="showSpecDialog();">点击查看本月活动</a></span></div>
+  </div>
+  <div class="headercon">
+    <div class="content">
+      <div class="logo"><a href="index.html">兑点</a></div>
+
+      <div class="intro">
+        <div class="tet"><img src="assets/images/headintro.png" /></div>
+        <div class="menu">
+          <ul>
+          <li><a href="index.html">首页</a></li>
+          <li><a href="newproduct.html">新品推荐</a></li>
+          <li><a href="content/service.html#info">配送服务</a></li>
+          <li><a href="gukeshuo.html">顾客说</a></li>
+          <li><a href="content/problem.html#info">常见问题</a></li>
+          <li><a href="content/about.html#info">关于我们</a></li>
+          <li><a href="newservice.html#info">企业服务</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="userinfo" id="menu">
+       
+        <span class="cart"><a href="cart.html"><script type="text/javascript" src="tools/submit_ajax.ashx-action=view_cart_count.html"></script></a></span>
+      </div>
+    </div>
+  </div>
+</header>
+<script type="text/javascript">
+    $.ajax({
+        type: "POST",
+        url: "/tools/submit_ajax.ashx?action=user_check_login",
+        dataType: "json",
+        timeout: 20000,
+        success: function (data, textStatus) {
+            if (data.status == 1) {
+                $("#menu").prepend('<span><a href="/user/center/exit.html">退出</a></span>');
+                $("#menu").prepend('<span><em></em><a href="/user/center/index.html">会员中心</a></span>');
+            } else {
+                $("#menu").prepend('<span><a href="/register.html">注册</a></span>');
+                $("#menu").prepend('<span><em></em><a href="/login.html">登录</a></span>');
+            }
+        }
+    });
+		</script>
+<!--/Header-->
+
+
+<section class="homebg">
+  
+    <section class="bannerwarp boxshadow">
+      <div class="content">
+        <div class="swiper-container" id="bannerSlider_smlogo">
+          <div class="swiper-wrapper">
+ 
+            <div class="swiper-slide swiper_navslidebgimg" style="background-image:url('upload/201510/30/201510301805566884.png')"></div>
+ 
+            <div class="swiper-slide swiper_navslidebgimg" style="background-image:url('upload/201510/30/201510301831579063.png')"></div>
+ 
+            <div class="swiper-slide swiper_navslidebgimg" style="background-image:url('upload/201510/30/201510301855470738.png')"></div>
+ 
+            <div class="swiper-slide swiper_navslidebgimg" style="background-image:url('upload/201510/30/201510301834012035.png')"></div>
+ 
+            <div class="swiper-slide swiper_navslidebgimg" style="background-image:url('upload/201510/30/201510301835120655.png')"></div>
+ 
+          
+          </div>
+        </div>
+      </div>
+      <div class="swiper-container" id="bannerSlider">
+        <div class="swiper-wrapper">
+ 
+          <div class="swiper-slide swiper_slidebgimg" style="background-image:url('upload/201510/30/201510301819237424.png')"><a href="goods_list.html" style="display: block; height: 100%;"></a></div>
+         
+          <div class="swiper-slide swiper_slidebgimg" style="background-image:url('upload/201510/30/201510301831322189.jpg')"><a href="chayuan.html" style="display: block; height: 100%;"></a></div>
+         
+          <div class="swiper-slide swiper_slidebgimg" style="background-image:url('upload/201510/30/201510301617339031.jpg')"><a href="allchipsall.html" style="display: block; height: 100%;"></a></div>
+         
+          <div class="swiper-slide swiper_slidebgimg" style="background-image:url('upload/201510/30/201510301833573271.jpg')"><a href="allchipsallshow-184.html" style="display: block; height: 100%;"></a></div>
+         
+          <div class="swiper-slide swiper_slidebgimg" style="background-image:url('upload/201510/30/201510301835040560.jpg')"><a href="zhoubian.html" style="display: block; height: 100%;"></a></div>
+         
+        </div>
+        <div class="swiper-pagination swiper-pagination-white bannerSlider-pagination"></div>
+        <div class="swiper-button-next swiper-button-white bannerSlider-button-next"></div>
+        <div class="swiper-button-prev swiper-button-white bannerSlider-button-prev"></div>
+      </div>
+    </section>
+    
+    
+    <section class="indexintro">
+      <div class="content">
+        <ul>
+        <li><a href="goods_list.html"><img src="assets/images/indexintro_01.png"/></a></li>
+        <li><a href="allchipsall.html"><img src="assets/images/indexintro_02.png"/></a></li>
+        <li><a href="zhoubian.html"><img src="assets/images/indexintro_03.png"/></a></li>
+        <li><a href="chayuan.html"><img src="assets/images/indexintro_04.png"/></a></li>
+        <li><a href="newteam-137.html"><img src="assets/images/indexintro_05.png"/></a></li>
+        <li><a href="award.html"><img src="assets/images/indexintro_06.png"/></a></li>
+        </ul>
+      </div>
+    </section>
+    
+    
+    <section class="daynominate boxshadow">
+      <div class="swiper-container" >
+        <div class="swiper-wrapper">
+          <div class="swiper-slide swiper_slidebgimg" style="background-image:url('assets/images/daynominate_01.jpg')"><a href="newproduct.html"></a></div>
+                </div>
+        <div class="swiper-pagination swiper-pagination-daynominate daynominateSlider-pagination"></div>
+      </div>
+    </section>
+    
+    <section class="indextealist boxshadow">
+      <div class="info">
+      <div class="content tealistwarp">
+        <div class="swiper-container tealistSlider" id="tealistSlider">
+          <div class="swiper-wrapper">
+
+          
+
+
+          
+            <div class="swiper-slide">
+              <div class="item">
+                <div class="img">   <a title="麦田" href="goods/show-143.html"><img src="upload/201510/27/201510271041525662.png"/></a></div>
+                <div class="con">
+                  <div class="tile">麦田</div>
+                  <div class="tet">一望无际的麦田就像一张张美丽的金色图纸，柔软而又坚…</div>
+                  <div class="btn"><a href="goods/show-143.html"  >查看详情</a></div>
+                </div>
+              </div>
+            </div>
+                
+            <div class="swiper-slide">
+              <div class="item">
+                <div class="img">   <a title="西班牙女郎" href="goods/show-144.html"><img src="upload/201510/27/201510271352434584.png"/></a></div>
+                <div class="con">
+                  <div class="tile">西班牙女郎</div>
+                  <div class="tet">金边红色连衣裙，黑色小牛皮鞋，妩媚红唇嘴角微微翘起…</div>
+                  <div class="btn"><a href="goods/show-144.html"  >查看详情</a></div>
+                </div>
+              </div>
+            </div>
+                
+            <div class="swiper-slide">
+              <div class="item">
+                <div class="img">   <a title="萤火森林" href="goods/show-145.html"><img src="upload/201510/27/201510271531485895.png"/></a></div>
+                <div class="con">
+                  <div class="tile">萤火森林</div>
+                  <div class="tet">桂花花期刚到时，会害羞的把自己藏在桂树深处，你若是…</div>
+                  <div class="btn"><a href="goods/show-145.html"  >查看详情</a></div>
+                </div>
+              </div>
+            </div>
+                
+            <div class="swiper-slide">
+              <div class="item">
+                <div class="img">   <a title="幽兰" href="goods/show-149.html"><img src="upload/201510/27/201510271626353359.png"/></a></div>
+                <div class="con">
+                  <div class="tile">幽兰</div>
+                  <div class="tet">春日踏青，恰逢兰花节。一树玉兰，质朴宁静，高洁淡雅…</div>
+                  <div class="btn"><a href="goods/show-149.html"  >查看详情</a></div>
+                </div>
+              </div>
+            </div>
+                
+            <div class="swiper-slide">
+              <div class="item">
+                <div class="img">   <a title="维苏威春天" href="goods/show-156.html"><img src="upload/201510/27/201510271706213605.png"/></a></div>
+                <div class="con">
+                  <div class="tile">维苏威春天</div>
+                  <div class="tet">意大利南部的维苏威火山是世界上最著名的活火山之一，…</div>
+                  <div class="btn"><a href="goods/show-156.html"  >查看详情</a></div>
+                </div>
+              </div>
+            </div>
+                
+            <div class="swiper-slide">
+              <div class="item">
+                <div class="img">   <a title="吸血鬼之吻" href="goods/show-159.html"><img src="upload/201510/27/201510271728064715.png"/></a></div>
+                <div class="con">
+                  <div class="tile">吸血鬼之吻</div>
+                  <div class="tet">暮色降临，雾气弥漫，幽暗的古堡被玫瑰的香气环绕，在…</div>
+                  <div class="btn"><a href="goods/show-159.html"  >查看详情</a></div>
+                </div>
+              </div>
+            </div>
+                
+           
+            
+          </div>
+          
+          <div class="swiper-button-next tealistSlider-button-next"></div>
+       	<div class="swiper-button-prev tealistSlider-button-prev"></div>
+          
+        </div>
+      </div>
+      </div>
+    </section>
+    
+    <section class="indexletter boxshadow">
+      <div class="info"><a href="newservice.html"></a></div>
+    </section>
+    
+    
+    <section class="indexcharity boxshadow">
+      <div class="info">
+        <div class="icvideo">
+         
+          <div class="bgimg">
+
+<embed src="http://player.youku.com/player.php/sid/XMTM3MTQ3MjIzMg==/v.swf" type="application/x-shockwave-flash" width="494" 
+
+height="330" quality="high" /></div>
+        </div>
+        <div class="iccon"><a href="news/63.html"><img src="assets/images/indexcharity_con.png"/></a></div>
+      </div>
+    </section>
+
+</section>
+
+
+      <div class="footer">
+  <div class="content">
+    <div class="footercontact">
+      <div class="tetimg"><img src="assets/images/foot_tet.png"/></div>
+      <div class="share">
+        <ul>
+        <li class="shareinfo weibo"><a href="http://weibo.com/p/1006065490619201/home?from=page_100606&mod=TAB#place" target="_blank">官方微博</a></li>
+    
+        <li class="shareinfo qq"><a href="javascript:;" id="BizQQWPA" >QQ在线</a><!-- WPA Button Begin -->
+</script>
+<!-- WPA Button End --></li>
+        </ul>
+      </div>
+      <div class="contacttet">
+        订购专线：010-82439680<br>客服电话：010-82439680-820<br />
+        总裁投诉邮箱：licheng187@sina.com
+      </div>
+      <div class="qrcode">
+        <ul>
+        <li><img src="assets/images/qrcode_shopping.jpg"/><p>店铺二维码</p></li>
+        <li><img src="assets/images/qrcode_wechat.jpg"/><p>服务号二维码</p></li>
+        </ul>
+      </div>
+    </div>
+    <div class="friends">
+      <ul>
+ <li><a href="index.html#"><img src="assets/images/ych.png"/><p>元长厚中华老字号联合运营
+</p></a></li>
+        <li><a href="index.html#"><img src="assets/images/footer_h_01.png"/><p>中国保健食品协会</p></a></li>
+        <li><a href="index.html#"><img src="assets/images/footer_h_02.png"/><p>兑点·茶</p></a></li>
+        <li><a href="index.html#"><img src="assets/images/footer_h_04.png"/><p>中国电子商务协会</p></a></li>
+        <li><a href="index.html#"><img src="assets/images/footer_h_03.png"/><p>中国人寿</p></a></li>
+      </ul>
+    </div>
+    <div class="cptet">
+      北京兑点网络科技有限责任公司所有<br>CopyRight 兑点茶官网 2014-2018 版权所有 京ICP备案10655113号
+    </div>
+  </div>
+</div>
+
+
+<script>BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 800111803, selector: 'BizQQWPA'});</script>
+<script>BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 800111803, selector: 'BizQQWPA1'});</script>
+<script>BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 800111803, selector: 'BizQQWPA2'});</script>
+<script>BizQQWPA.addCustom({aty: '0', a: '0', nameAccount: 800111803, selector: 'BizQQWPA3'});</script>
+
+<script src="assets/js/swiper.js"></script>
+<script src="assets/js/main.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d3ba9ca009cd09ed6b2c8e101c20b8dd";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</body>
+</html>

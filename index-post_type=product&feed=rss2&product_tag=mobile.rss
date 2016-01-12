@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Smart Screen &#187; Products</title>
+	<atom:link href="http://demo.highthemes.com/smartscreen/?post_type=product&#038;feed=rss2&#038;product_tag=mobile" rel="self" type="application/rss+xml" />
+	<link>http://demo.highthemes.com/smartscreen</link>
+	<description>Flexible responsive wordpress theme</description>
+	<lastBuildDate>Mon, 19 Jan 2015 10:30:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.8</generator>
+	<item>
+		<title>HTC ThunderBolt 4G</title>
+		<link>http://demo.highthemes.com/smartscreen/?product=htc-thunderbolt-4g</link>
+		<comments>http://demo.highthemes.com/smartscreen/?product=htc-thunderbolt-4g#comments</comments>
+		<pubDate>Mon, 24 Jun 2013 07:56:30 +0000</pubDate>
+		<dc:creator><![CDATA[John Smith]]></dc:creator>
+		
+		<guid isPermaLink="false">http://demo.highthemes.com/smartscreen/?post_type=product&#038;p=2309</guid>
+		<description><![CDATA[One of the world&#8217;s first 4G LTE Android smartphones, the HTC ThunderBolt 4G for Verizon Wireless takes advantage of the fastest, most advanced 4G network in America. It&#8217;s powered by a lightning-quick 1 GHz Snapdragon processor and offers a vibrantly colorful 4.3-inch Super LCD multi-touch display. Capture brilliant photos and HD 720p video with the ...]]></description>
+				<content:encoded><![CDATA[<div id="tab-description">
+<p>One of the world&#8217;s first 4G LTE Android smartphones, the HTC ThunderBolt 4G for Verizon Wireless takes advantage of the fastest, most advanced 4G network in America. It&#8217;s powered by a lightning-quick 1 GHz Snapdragon processor and offers a vibrantly colorful 4.3-inch Super LCD multi-touch display. Capture brilliant photos and HD 720p video with the 8-megapixel camera on the rear, and enjoy video call capabilities with the front-facing camera. And with the Android 2.2 OS, you&#8217;ll be able to experience the full Internet thanks to its support for Adobe Flash 10.1&#8211;enabling you to play games, watch videos, and more.</p>
+<h3>Android Operating System</h3>
+<p>The ThunderBolt 4G runs the latest Android operating system&#8211;OS 2.2 (aka, Froyo)&#8211;which provides a faster overall Android experience as well as greater multitasking capabilities. You&#8217;ll be able to receive notifications, listen to music, and even record GPS data without keeping the application open. And it features a plethora of new enhancements, including an improved onscreen QWERTY keyboard, full push corporate e-mail, and support for Adobe Flash Player 10.1 for access to the full Web. It also offers enhanced Exchange support, with Calendar syncing, Global Address Lookup, improved security, auto-discovery, and more.</p>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.highthemes.com/smartscreen/?feed=rss2&#038;p=2309</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Smart Screen &#187; Design</title>
+	<atom:link href="http://demo.highthemes.com/smartscreen/?feed=rss2&#038;cat=10" rel="self" type="application/rss+xml" />
+	<link>http://demo.highthemes.com/smartscreen</link>
+	<description>Flexible responsive wordpress theme</description>
+	<lastBuildDate>Mon, 19 Jan 2015 10:30:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1.8</generator>
+	<item>
+		<title>Quisque volutpat mattis eros</title>
+		<link>http://demo.highthemes.com/smartscreen/?p=51</link>
+		<comments>http://demo.highthemes.com/smartscreen/?p=51#comments</comments>
+		<pubDate>Wed, 03 Oct 2012 06:55:01 +0000</pubDate>
+		<dc:creator><![CDATA[John Smith]]></dc:creator>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Image]]></category>
+		<category><![CDATA[Nice]]></category>
+		<category><![CDATA[Photo]]></category>
+
+		<guid isPermaLink="false">http://localhost/romix/?p=51</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, ...]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.highthemes.com/smartscreen/?feed=rss2&#038;p=51</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Fusce pellentesque suscipit nibh</title>
+		<link>http://demo.highthemes.com/smartscreen/?p=49</link>
+		<comments>http://demo.highthemes.com/smartscreen/?p=49#comments</comments>
+		<pubDate>Tue, 02 Oct 2012 06:53:40 +0000</pubDate>
+		<dc:creator><![CDATA[John Smith]]></dc:creator>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Beautiful]]></category>
+		<category><![CDATA[Nice]]></category>
+
+		<guid isPermaLink="false">http://localhost/romix/?p=49</guid>
+		<description><![CDATA[Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede ...]]></description>
+				<content:encoded><![CDATA[<p>Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna.</p>
+<p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus. Sed vel lacus. Mauris nibh felis, adipiscing varius, adipiscing in, lacinia vel, tellus. Suspendisse ac urna. Etiam pellentesque mauris ut lectus. Nunc tellus ante, mattis eget, gravida vitae, ultricies ac, leo. Integer leo pede, ornare a, lacinia eu, vulputate vel, nisl.</p>
+<p>Suspendisse mauris. Fusce accumsan mollis eros. Pellentesque a diam sit amet mi ullamcorper vehicula. Integer adipiscing risus a sem. Nullam quis massa sit amet nibh viverra malesuada. Nunc sem lacus, accumsan quis, faucibus non, congue vel, arcu. Ut scelerisque hendrerit tellus. Integer sagittis. Vivamus a mauris eget arcu gravida tristique. Nunc iaculis mi in ante. Vivamus imperdiet nibh feugiat est.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.highthemes.com/smartscreen/?feed=rss2&#038;p=49</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nullam malesuada erat ut turpis uspendisse urna nibh</title>
+		<link>http://demo.highthemes.com/smartscreen/?p=54</link>
+		<comments>http://demo.highthemes.com/smartscreen/?p=54#comments</comments>
+		<pubDate>Wed, 05 Oct 2011 06:57:21 +0000</pubDate>
+		<dc:creator><![CDATA[John Smith]]></dc:creator>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Photography]]></category>
+		<category><![CDATA[Image]]></category>
+		<category><![CDATA[Nice]]></category>
+		<category><![CDATA[Photo]]></category>
+
+		<guid isPermaLink="false">http://localhost/romix/?p=54</guid>
+		<description><![CDATA[Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede ...]]></description>
+				<content:encoded><![CDATA[<p>Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna.</p>
+<p>Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus. Sed vel lacus. Mauris nibh felis, adipiscing varius, adipiscing in, lacinia vel, tellus. Suspendisse ac urna. Etiam pellentesque mauris ut lectus. Nunc tellus ante, mattis eget, gravida vitae, ultricies ac, leo. Integer leo pede, ornare a, lacinia eu, vulputate vel, nisl.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://demo.highthemes.com/smartscreen/?feed=rss2&#038;p=54</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
