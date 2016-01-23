@@ -1,0 +1,54 @@
+#main {
+    padding-bottom: 100px;
+}
+#portfolio .one_half {
+    width: 47%;
+}
+#portfolio .one_third {
+    width: 30.5%;
+}
+#portfolio .one_fourth {
+    width: 22.5%;
+}
+.pricing-table-3col .pricing-table {
+    width: 33%;
+}
+.pricing-table-4col .pricing-table {
+    width: 24.5%;
+}
+.pricing-table-5col .pricing-table {
+    width: 19.5%;
+}
+.magenta {
+    background-color: #C25283;
+}
+.pink {
+    background-color: #F9A7B0;
+}
+.orange {
+    background-color: #F96E5B;
+}
+.red {
+    background-color: #DC4F49;
+}
+.green {
+    background-color: #78D18B;
+}
+.blue {
+    background-color: #7CC0CB;
+}
+.grey {
+    background-color: #444;
+}
+.black {
+    background-color: #000;
+}
+.purple {
+    background-color: #9A86A2;
+}
+#wrap a.button {
+    cursor: pointer;
+}
+#wrap a.button:hover {
+    background-color: #000;
+}

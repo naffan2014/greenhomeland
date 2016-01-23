@@ -1,0 +1,6 @@
+#sidebar {
+    filter: alpha(opacity = 80);
+}
+#controls-wrap, #social-bar, #slidecaption {
+    filter: alpha(opacity = 70);
+}

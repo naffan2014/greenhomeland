@@ -1,0 +1,2344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartScreen\n"
+"POT-Creation-Date: 2015-06-29 11:23+0330\n"
+"PO-Revision-Date: 2015-06-29 11:23+0330\n"
+"Last-Translator: \n"
+"Language-Team: Highthemes\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5
+msgid "Error 404! Page Not Found."
+msgstr ""
+
+#: 404.php:24 admin/functions/shortcodes.php:260
+#: includes/sitemap_content.php:3 includes/sitemap_content.php:10
+#: includes/sitemap_content.php:14 includes/sitemap_content.php:38
+#: includes/sitemap_content.php:45
+msgid "Top"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:1311
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/classes/class.options_machine.php:1370
+msgid "Upload"
+msgstr ""
+
+#: admin/front-end/options.php:4
+msgid "Options Updated"
+msgstr ""
+
+#: admin/front-end/options.php:8 admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: admin/front-end/options.php:12
+msgid "Error!"
+msgstr ""
+
+#: admin/front-end/options.php:28
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: admin/front-end/options.php:37
+msgid "Expand"
+msgstr ""
+
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:24
+msgid "Options"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:214
+msgid "Gallery"
+msgstr ""
+
+#: admin/functions/functions.mediauploader.php:214
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:51
+#: admin/functions/functions.metaboxes.php:421
+#: admin/functions/functions.metaboxes.php:735
+#: admin/functions/functions.options.php:51
+#: admin/functions/woocommerce.php:212
+msgid "All Items"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:74
+#: admin/functions/functions.metaboxes.php:445
+#: admin/functions/functions.metaboxes.php:760
+#: admin/functions/woocommerce.php:224
+msgid "Enable Video BG for this page"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:75
+#: admin/functions/functions.metaboxes.php:446
+#: admin/functions/functions.metaboxes.php:761
+#: admin/functions/woocommerce.php:225
+msgid ""
+"If you enable video bg, you need to fill the video sources. Also the "
+"background slideshow will be disabled."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:80
+#: admin/functions/functions.metaboxes.php:451
+#: admin/functions/functions.metaboxes.php:766
+#: admin/functions/woocommerce.php:230
+msgid "BG Video Source MP4"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:81
+#: admin/functions/functions.metaboxes.php:452
+#: admin/functions/functions.metaboxes.php:767
+#: admin/functions/woocommerce.php:231
+msgid "Enter the mp4 video source url here."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:86
+#: admin/functions/functions.metaboxes.php:457
+#: admin/functions/functions.metaboxes.php:772
+#: admin/functions/woocommerce.php:236
+msgid "BG Video Source WebM"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:87
+#: admin/functions/functions.metaboxes.php:458
+#: admin/functions/functions.metaboxes.php:773
+#: admin/functions/woocommerce.php:237
+msgid "Enter the webm video source url here."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:92
+#: admin/functions/functions.metaboxes.php:463
+#: admin/functions/functions.metaboxes.php:778
+#: admin/functions/woocommerce.php:242
+msgid "BG Video Source OGV"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:93
+#: admin/functions/functions.metaboxes.php:464
+#: admin/functions/functions.metaboxes.php:779
+#: admin/functions/woocommerce.php:243
+msgid "Enter the ogv video source url here."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:98
+#: admin/functions/functions.metaboxes.php:469
+#: admin/functions/functions.metaboxes.php:784
+#: admin/functions/woocommerce.php:248
+msgid "BG Video Poster"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:99
+#: admin/functions/functions.metaboxes.php:470
+#: admin/functions/functions.metaboxes.php:785
+#: admin/functions/woocommerce.php:249
+msgid "Upload a video poster image for this video."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:105
+#: admin/functions/functions.metaboxes.php:790
+msgid "Override Page Title"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:106
+#: admin/functions/functions.metaboxes.php:791
+msgid ""
+"By default, the page name will display as the title, you can override it "
+"here."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:111
+#: admin/functions/functions.metaboxes.php:503
+#: admin/functions/woocommerce.php:282
+msgid "Disable Sidebar?"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:112
+msgid "Check this box to disable sidebar."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:117
+#: admin/functions/functions.metaboxes.php:475
+#: admin/functions/functions.metaboxes.php:797
+#: admin/functions/woocommerce.php:254
+msgid "Slideshow Status"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:118
+#: admin/functions/functions.metaboxes.php:476
+#: admin/functions/functions.metaboxes.php:798
+#: admin/functions/woocommerce.php:255
+msgid "You can override the slideshow status for this page/post."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:123
+#: admin/functions/functions.metaboxes.php:481
+#: admin/functions/functions.metaboxes.php:803
+#: admin/functions/woocommerce.php:260
+msgid "Default Settings"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:127
+#: admin/functions/functions.metaboxes.php:485
+#: admin/functions/functions.metaboxes.php:807
+#: admin/functions/woocommerce.php:264
+msgid "Enable Slideshow"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:131
+#: admin/functions/functions.metaboxes.php:489
+#: admin/functions/functions.metaboxes.php:811
+#: admin/functions/woocommerce.php:268
+msgid "Disable Slideshow"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:138
+#: admin/functions/functions.metaboxes.php:496
+#: admin/functions/functions.metaboxes.php:818
+#: admin/functions/woocommerce.php:275
+msgid "Slideshow Category"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:139
+#: admin/functions/functions.metaboxes.php:190
+#: admin/functions/functions.metaboxes.php:497
+#: admin/functions/functions.metaboxes.php:819
+#: admin/functions/woocommerce.php:276
+msgid "Check the categories you wish to show items from"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:145
+msgid "Page Type"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:146
+msgid ""
+"Select the type of the page, if you want to create special pages like "
+"portfolio, contact, etc."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:151
+#: admin/functions/functions.php:758 admin/functions/functions.php:770
+#: includes/lib/wp_pagenavi.php:203
+msgid "Page"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:155
+msgid "Sub-Blog"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:159
+msgid "Classic Portfolio"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:163
+msgid "Filterable Portfolio"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:169
+msgid "Items per Page"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:170
+msgid "Enter the number of items you like to display per page"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:176
+msgid "Sub-Blog Category"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:177
+msgid "Check the categories you wish to show items from in the sub blog"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:183
+msgid "Disable Lightbox?"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:184
+msgid "Check this box to disable lightbox for this page items."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:189
+msgid "Portfolio Category"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:197
+msgid "Portfolio Layouts"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:198
+msgid "Select your desired layout for portfolio page."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:203
+msgid "1 Column"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:207
+msgid "2 Columns"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:211
+msgid "3 Columns"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:215
+msgid "4 Columns"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:292
+#: admin/functions/functions.metaboxes.php:603
+#: admin/functions/functions.metaboxes.php:945
+#: admin/functions/woocommerce.php:352
+msgid "Choose an image"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:327
+#: admin/functions/functions.metaboxes.php:638
+#: admin/functions/functions.metaboxes.php:980
+#: admin/functions/woocommerce.php:387
+msgid "Select Images"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:504
+#: admin/functions/woocommerce.php:283
+msgid "Check to disable sidebar"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:509
+msgid "Featured image on single page"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:510
+msgid "You can enable/disable featured image on this page."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:515
+msgid "Select An Option"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:519
+msgid "Enable"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:523
+msgid "Disable"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:529
+#: admin/functions/functions.metaboxes.php:834
+msgid "Embed Video "
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:530
+#: admin/functions/functions.metaboxes.php:835
+msgid ""
+"To embed a video, you can paste its link here.  what type? (http://www.no-"
+"margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/)"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:535
+msgid "External Link for Link Post Format "
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:536
+msgid ""
+"Paste an external link address, if you've chosen \"link\" post format type. "
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:826
+msgid "Slider Images"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:827
+msgid "You can upload more images for this item, they will show as slideshow"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:840
+msgid "Extra Information "
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:841
+msgid ""
+"Here you can enter a little more about the project. For example designer: "
+"John Smith<br/>"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:847
+msgid "External URL"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:848
+msgid ""
+"if you want to link the external URL, type it here below. Otherwise, leave "
+"the field empty."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:853
+msgid "Link external URL to"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:854
+msgid "You can link the external URL to title, Thumbnail or both"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:859
+msgid "Title"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:863
+#: admin/functions/portfolio.php:93
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:867
+msgid "Both"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1064
+msgid "Disable Caption?"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1065
+msgid "Check this box to disable caption for this item."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1070
+msgid "Disable Caption Title?"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1071
+msgid "Check this box to disable caption title for this item."
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1232
+msgid "Select a Sidebar"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1246
+msgid "Sidebar Alignment"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1252
+msgid "Select Sidebar Alignment"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1256
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1260
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/functions/functions.metaboxes.php:1267
+msgid "Custom Sidebar"
+msgstr ""
+
+#: admin/functions/functions.options.php:73
+msgid "Select a page"
+msgstr ""
+
+#: admin/functions/functions.options.php:104
+msgid "Open Socials In New Window"
+msgstr ""
+
+#: admin/functions/functions.options.php:105
+msgid "Check this box to open social media links in a new window."
+msgstr ""
+
+#: admin/functions/functions.options.php:110
+msgid "RSS Feed"
+msgstr ""
+
+#: admin/functions/functions.options.php:111
+msgid "Enter your rss feed url here e.g. "
+msgstr ""
+
+#: admin/functions/functions.options.php:115
+msgid "Twitter ID"
+msgstr ""
+
+#: admin/functions/functions.options.php:116
+msgid "Enter your twitter id here, e.g. thehighthemes"
+msgstr ""
+
+#: admin/functions/functions.options.php:120
+msgid "Facebook Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:121
+msgid "Enter your facebook profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:125
+msgid "Google Plus Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:126
+msgid "Enter your gplus profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:130
+msgid "Flickr Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:131
+msgid "Enter your flickr profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:136
+msgid "LinkedIn Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:137
+msgid "Enter your linkedin profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:142
+msgid "Vimeo Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:143
+msgid "Enter your Vimeo profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:148
+msgid "Behance Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:149
+msgid "Enter your Behance profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:154
+msgid "Dribble Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:155
+msgid "Enter your Dribble profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:160
+msgid "Digg Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:161
+msgid "Enter your Digg profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:166
+msgid "Delicious Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:167
+msgid "Enter your Delicious profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:173
+msgid "Tumblr Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:174
+msgid "Enter your Tumblr profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:179
+msgid "Instagram Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:180
+msgid "Enter your instagram profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:185
+msgid "YouTube Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:186
+msgid "Enter your YouTube profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:191
+msgid "pinterest Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:192
+msgid "Enter your pinterest profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:197
+msgid "soundcloud Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:198
+msgid "Enter your soundcloud profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:203
+msgid "skype Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:204
+msgid "Enter your skype profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:209
+msgid "dropbox Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:210
+msgid "Enter your dropbox profile url here"
+msgstr ""
+
+#: admin/functions/functions.options.php:215
+msgid "Email Profile"
+msgstr ""
+
+#: admin/functions/functions.options.php:216
+msgid "Enter your email address here."
+msgstr ""
+
+#: admin/functions/functions.options.php:226
+msgid "General Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:231
+msgid "Main Sidebar Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:232
+msgid ""
+"Select main content and sidebar alignment. Choose between left, right or "
+"full-width layout."
+msgstr ""
+
+#: admin/functions/functions.options.php:243
+msgid "Fixed or Responsive?"
+msgstr ""
+
+#: admin/functions/functions.options.php:244
+msgid ""
+"By default the theme adapts to the screen size of the visitor and uses a "
+"layout best suited.\n"
+"                        You can disable this behavior so the theme will only "
+"show the default layout without adaptation"
+msgstr ""
+
+#: admin/functions/functions.options.php:251
+msgid "404 Error Custom Message"
+msgstr ""
+
+#: admin/functions/functions.options.php:252
+msgid "You can write your own 404 error message here.."
+msgstr ""
+
+#: admin/functions/functions.options.php:257
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:258
+msgid "Upload your logo here, or define the URL directly"
+msgstr ""
+
+#: admin/functions/functions.options.php:263
+msgid "Logo (Retina Version @2x)"
+msgstr ""
+
+#: admin/functions/functions.options.php:264
+msgid ""
+"Please choose an image file for the retina version of the logo. It should be "
+"2x the size of the main logo."
+msgstr ""
+
+#: admin/functions/functions.options.php:269
+msgid "Hide menu in homepage"
+msgstr ""
+
+#: admin/functions/functions.options.php:270
+msgid "Check this box to make the menu hidden in homepage by default."
+msgstr ""
+
+#: admin/functions/functions.options.php:275
+msgid "Hide Menu & Slideshow Caption Highlight"
+msgstr ""
+
+#: admin/functions/functions.options.php:276
+msgid ""
+"There is a highlight on the menu & slideshow caption, check this box to hide "
+"it."
+msgstr ""
+
+#: admin/functions/functions.options.php:281
+msgid "Comments on Pages?"
+msgstr ""
+
+#: admin/functions/functions.options.php:282
+msgid "Allow comments for pages."
+msgstr ""
+
+#: admin/functions/functions.options.php:288
+msgid "Disable Image Rollover"
+msgstr ""
+
+#: admin/functions/functions.options.php:289
+msgid "Check this checkbox to disable rollover effect of post images."
+msgstr ""
+
+#: admin/functions/functions.options.php:294
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/functions/functions.options.php:295
+msgid "Enable or disable breadcrumb navigation in all pages."
+msgstr ""
+
+#: admin/functions/functions.options.php:300
+msgid "Social Bookmarks"
+msgstr ""
+
+#: admin/functions/functions.options.php:301
+msgid "Enable or disable social bookmarks in all pages."
+msgstr ""
+
+#: admin/functions/functions.options.php:307
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:308
+msgid ""
+"Upload a 16px x 16px Png/Gif image that will represent your website's "
+"favicon."
+msgstr ""
+
+#: admin/functions/functions.options.php:312
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:313
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:318
+msgid "Page Navi Pagination?"
+msgstr ""
+
+#: admin/functions/functions.options.php:319
+msgid ""
+"By default, the theme uses wp-pagenavi, uncheck this box if you don't want "
+"it. "
+msgstr ""
+
+#: admin/functions/functions.options.php:325
+msgid "Footer?"
+msgstr ""
+
+#: admin/functions/functions.options.php:326
+msgid "Check this box if you like to disable footer blocks"
+msgstr ""
+
+#: admin/functions/functions.options.php:331
+msgid "Footer Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:332
+msgid "Enter a copyright or something else at the very bottom of the pages."
+msgstr ""
+
+#: admin/functions/functions.options.php:337
+msgid "Contact Form Title"
+msgstr ""
+
+#: admin/functions/functions.options.php:338
+msgid "Default is \"Send us a message\" , you can change it."
+msgstr ""
+
+#: admin/functions/functions.options.php:343
+msgid "Your email address for contact page"
+msgstr ""
+
+#: admin/functions/functions.options.php:344
+msgid "Enter your email address. used for sending emails from contact page."
+msgstr ""
+
+#: admin/functions/functions.options.php:349
+msgid "Captcha for contact form?"
+msgstr ""
+
+#: admin/functions/functions.options.php:350
+msgid "Check this box if you like to disable contact page captcha"
+msgstr ""
+
+#: admin/functions/functions.options.php:356
+msgid "Enable Background Music"
+msgstr ""
+
+#: admin/functions/functions.options.php:357
+msgid ""
+"Select , if you like to enable a music for entire site, homepage or want to "
+"disable it"
+msgstr ""
+
+#: admin/functions/functions.options.php:365
+msgid "Audio File URL"
+msgstr ""
+
+#: admin/functions/functions.options.php:366
+msgid "Enter the address of your audio file here."
+msgstr ""
+
+#: admin/functions/functions.options.php:371
+msgid "Enable Auto-Play for Background Music"
+msgstr ""
+
+#: admin/functions/functions.options.php:372
+msgid "Check this box if you like to enable auto play feature"
+msgstr ""
+
+#: admin/functions/functions.options.php:377
+msgid "Enable Loop Playing for Background Music"
+msgstr ""
+
+#: admin/functions/functions.options.php:378
+msgid "Check this box if you like to enable loop feature"
+msgstr ""
+
+#: admin/functions/functions.options.php:388
+msgid "Portfolio Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:391
+msgid "Portfolio Slideshow Category"
+msgstr ""
+
+#: admin/functions/functions.options.php:392
+msgid "Choose a slideshow category for portfolio category archive page."
+msgstr ""
+
+#: admin/functions/functions.options.php:399
+msgid "Main Portfolio Page for Breadcrumb"
+msgstr ""
+
+#: admin/functions/functions.options.php:400
+msgid ""
+"You can create many portfolio gallery using smartscreen, but you can only "
+"assing one main of them to breadcrumb. Please select it here."
+msgstr ""
+
+#: admin/functions/functions.options.php:407
+msgid "Disable Portfolio details on portfolio item page"
+msgstr ""
+
+#: admin/functions/functions.options.php:408
+msgid ""
+"Check this box to disable the extra information displayed on single page of "
+"portfolio pages on sidebar."
+msgstr ""
+
+#: admin/functions/functions.options.php:413
+msgid "Portfolio Slug"
+msgstr ""
+
+#: admin/functions/functions.options.php:414
+msgid ""
+"Default Portfolio slug is 'portfolio', if you like to change it, enter the "
+"new slug here. I will appear in portfolio items urls. Note that if you "
+"change it you will need to open admin panel, change permalings structure to "
+"default, save website and then revert it to previous state. "
+msgstr ""
+
+#: admin/functions/functions.options.php:419
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: admin/functions/functions.options.php:420
+msgid ""
+"Default Portfolio category slug is 'portfolio-category', if you like to "
+"change it, enter the new slug here. I will appear in portfolio categories "
+"urls. Note that if you change it you will need to open admin panel, change "
+"permalings structure to default, save website and then revert it to previous "
+"state. "
+msgstr ""
+
+#: admin/functions/functions.options.php:425
+msgid "Disable Lightbox Effect for Portfolio Archive"
+msgstr ""
+
+#: admin/functions/functions.options.php:426
+msgid "Check this box to disable lightbox effect for portfolio archive page"
+msgstr ""
+
+#: admin/functions/functions.options.php:431
+msgid "Related Posts for Portfolio items"
+msgstr ""
+
+#: admin/functions/functions.options.php:432
+msgid "Check this box to disable related items for portfolio items."
+msgstr ""
+
+#: admin/functions/functions.options.php:437
+msgid "Disable social bookmark icons in porfolio item page"
+msgstr ""
+
+#: admin/functions/functions.options.php:438
+msgid "Check this box to disable social bookmark icons in porfolio item page."
+msgstr ""
+
+#: admin/functions/functions.options.php:443
+msgid "Hide the portfolio categories"
+msgstr ""
+
+#: admin/functions/functions.options.php:444
+msgid "If you want to hide the item categories in portfolio gallery page."
+msgstr ""
+
+#: admin/functions/functions.options.php:453
+msgid "Slideshow Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:456 admin/functions/slideshow.php:15
+#: admin/tinymce/window_post.php:59
+msgid "Slideshow"
+msgstr ""
+
+#: admin/functions/functions.options.php:457
+msgid "Uncheck this box to disable the slideshow for all pages."
+msgstr ""
+
+#: admin/functions/functions.options.php:462
+msgid "Slideshow Caption"
+msgstr ""
+
+#: admin/functions/functions.options.php:463
+msgid "Enable / Disable slideshow caption here."
+msgstr ""
+
+#: admin/functions/functions.options.php:468
+msgid "Slideshow Thumbnails"
+msgstr ""
+
+#: admin/functions/functions.options.php:469
+msgid ""
+"When you check this box, an icon will be shown on the footer of homepage. "
+"When a user clicks on it, slideshow thumbnail images will display. You can "
+"disable/enable it here."
+msgstr ""
+
+#: admin/functions/functions.options.php:474
+msgid "Slideshow Play/Pause Buttons"
+msgstr ""
+
+#: admin/functions/functions.options.php:475
+msgid "Enable / Disable slideshow Buttons Here."
+msgstr ""
+
+#: admin/functions/functions.options.php:480
+msgid "Slideshow Progress Bar"
+msgstr ""
+
+#: admin/functions/functions.options.php:481
+msgid "Enable / Disable slideshow progres bar here."
+msgstr ""
+
+#: admin/functions/functions.options.php:486
+msgid "Randomize Slideshow Rotating Order"
+msgstr ""
+
+#: admin/functions/functions.options.php:487
+msgid "If you like to use a random order for slideshow items, check this box."
+msgstr ""
+
+#: admin/functions/functions.options.php:492
+msgid "Choose Transition Effect"
+msgstr ""
+
+#: admin/functions/functions.options.php:493
+msgid "Choose a transition effect."
+msgstr ""
+
+#: admin/functions/functions.options.php:500
+msgid "Number of seconds"
+msgstr ""
+
+#: admin/functions/functions.options.php:501
+msgid "Seconds between each transition? "
+msgstr ""
+
+#: admin/functions/functions.options.php:511
+msgid "Blog Settings"
+msgstr ""
+
+#: admin/functions/functions.options.php:515
+msgid "Exclude Categories"
+msgstr ""
+
+#: admin/functions/functions.options.php:516
+msgid "Excluded categories from the main blog."
+msgstr ""
+
+#: admin/functions/functions.options.php:522
+msgid "Archive Page Slideshow Category"
+msgstr ""
+
+#: admin/functions/functions.options.php:523
+msgid "Choose a slideshow category for archive pages (tags, author, category)."
+msgstr ""
+
+#: admin/functions/functions.options.php:531
+msgid "Disable Featured images at top of posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:532
+msgid ""
+"check this box to disable featured images at top of posts. You can always "
+"override this option on each post by post options."
+msgstr ""
+
+#: admin/functions/functions.options.php:537
+msgid "Disable Lightbox for Blog?"
+msgstr ""
+
+#: admin/functions/functions.options.php:538
+msgid ""
+"By default, the theme uses PrettyPhoto lightbox for blog post featured "
+"images, you can disable it. "
+msgstr ""
+
+#: admin/functions/functions.options.php:543
+msgid "Show Full Content on Blog"
+msgstr ""
+
+#: admin/functions/functions.options.php:544
+msgid "check this box to disable excerpt and show full content on blog page."
+msgstr ""
+
+#: admin/functions/functions.options.php:550
+msgid "Show Social Bookmark Icons on Posts?"
+msgstr ""
+
+#: admin/functions/functions.options.php:551
+msgid "check this box to show twitter/facebook/gplus share buttons on posts."
+msgstr ""
+
+#: admin/functions/functions.options.php:559
+msgid "Styling Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:562
+msgid "Include Latin Characters?"
+msgstr ""
+
+#: admin/functions/functions.options.php:563
+msgid "Check this box to include latin characters for google fonts."
+msgstr ""
+
+#: admin/functions/functions.options.php:569
+msgid "Body Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:570
+msgid "Specify the body font properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:576
+msgid "Headings Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:577
+msgid "Specify the Headings font properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:582
+msgid "Sidebar Heading Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:583
+msgid "Specify the Sidebar Heading font properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:588
+msgid "Sidebar Heading Font Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:589
+msgid "Pick a color for the sidebar headings."
+msgstr ""
+
+#: admin/functions/functions.options.php:595
+msgid "Navigation Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:596
+msgid "Specify the Navigation font properties"
+msgstr ""
+
+#: admin/functions/functions.options.php:601
+msgid "Navigation Font Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:602
+msgid "Pick a color for the navigation font."
+msgstr ""
+
+#: admin/functions/functions.options.php:607
+msgid "Navigation Separator Line Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:608
+msgid "Pick a color for the navigation separator line."
+msgstr ""
+
+#: admin/functions/functions.options.php:613
+msgid "Navigation Sub-Title Font Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:614
+msgid "Pick a color for the navigation sub-title font."
+msgstr ""
+
+#: admin/functions/functions.options.php:619
+msgid "Page Title Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:620
+msgid "You may would like to change the page title color, here you can do it."
+msgstr ""
+
+#: admin/functions/functions.options.php:625
+msgid "Footer/Header Border Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:626
+msgid ""
+"There is a line at the top/bottom of the page, you can control its color "
+"separately."
+msgstr ""
+
+#: admin/functions/functions.options.php:631
+msgid "Link Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:632
+msgid "Pick a color for the links."
+msgstr ""
+
+#: admin/functions/functions.options.php:637
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:638
+msgid ""
+"Choose the color you'd like applied to links when they are hovered over."
+msgstr ""
+
+#: admin/functions/functions.options.php:643
+msgid "Choose Lightbox (prettyPhoto) theme"
+msgstr ""
+
+#: admin/functions/functions.options.php:644
+msgid ""
+"The theme uses prettyPhoto for image gallery lightbox. You choose your "
+"desired theme here."
+msgstr ""
+
+#: admin/functions/functions.options.php:650
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/functions/functions.options.php:651
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: admin/functions/functions.options.php:661
+msgid "Backgrounds"
+msgstr ""
+
+#: admin/functions/functions.options.php:664
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:665
+msgid "Pick a background color for the theme."
+msgstr ""
+
+#: admin/functions/functions.options.php:670
+msgid "Main Content Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:671
+msgid ""
+"You can change the main content background from white to any color you like."
+msgstr ""
+
+#: admin/functions/functions.options.php:677
+msgid "Main Content Transparency Level"
+msgstr ""
+
+#: admin/functions/functions.options.php:678
+msgid ""
+"You can conrol the transparency of the main content. Please enter number "
+"from 0 to 1. eg: 0.7"
+msgstr ""
+
+#: admin/functions/functions.options.php:683
+msgid "Menu, Footer & Sidebar Transparncy Level"
+msgstr ""
+
+#: admin/functions/functions.options.php:684
+msgid ""
+"You can conrol the transparency of Menu, Footer & Sidebar. Please enter "
+"number from 0 to 1. eg: 0.7"
+msgstr ""
+
+#: admin/functions/functions.options.php:689
+msgid "Main Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:690
+msgid "Pick a background color for Menu, Caption, Sidebar , etc."
+msgstr ""
+
+#: admin/functions/functions.options.php:695
+msgid "Slideshow Overlay Pattern"
+msgstr ""
+
+#: admin/functions/functions.options.php:696
+msgid ""
+"Full screen slideshow images can get an overlay pattern. Choose from the "
+"images below."
+msgstr ""
+
+#: admin/functions/functions.options.php:704
+msgid "Backup Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:707
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:711
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: admin/functions/functions.options.php:714
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: admin/functions/functions.options.php:718
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\""
+msgstr ""
+
+#: admin/functions/functions.php:65
+msgid "Primary Navigation of "
+msgstr ""
+
+#: admin/functions/functions.php:69
+msgid "Default Sidebar"
+msgstr ""
+
+#: admin/functions/functions.php:72
+msgid "Default Shop Sidebar"
+msgstr ""
+
+#: admin/functions/functions.php:75
+msgid "Archive Page Sidebar"
+msgstr ""
+
+#: admin/functions/functions.php:185 tpl_contact.php:45
+#: tpl_contact_sidebar.php:45
+msgid "Full Name:"
+msgstr ""
+
+#: admin/functions/functions.php:187
+msgid "Please enter your name."
+msgstr ""
+
+#: admin/functions/functions.php:204
+msgid "Please enter email address."
+msgstr ""
+
+#: admin/functions/functions.php:216
+msgid "Please enter your valid email address."
+msgstr ""
+
+#: admin/functions/functions.php:234
+msgid "Please enter captcha."
+msgstr ""
+
+#: admin/functions/functions.php:245
+msgid "Please enter captcha correctly"
+msgstr ""
+
+#: admin/functions/functions.php:260
+msgid "Please enter your message."
+msgstr ""
+
+#: admin/functions/functions.php:277
+msgid "New Message By"
+msgstr ""
+
+#: admin/functions/functions.php:277
+msgid "on"
+msgstr ""
+
+#: admin/functions/functions.php:278
+msgid " has contacted you"
+msgstr ""
+
+#: admin/functions/functions.php:279
+msgid "Comment: "
+msgstr ""
+
+#: admin/functions/functions.php:280
+msgid "Email: "
+msgstr ""
+
+#: admin/functions/functions.php:281
+msgid "website: "
+msgstr ""
+
+#: admin/functions/functions.php:293
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: admin/functions/functions.php:297
+msgid "Thank you "
+msgstr ""
+
+#: admin/functions/functions.php:297
+msgid "your message has been submitted to us."
+msgstr ""
+
+#: admin/functions/functions.php:569
+msgid "Published today"
+msgstr ""
+
+#: admin/functions/functions.php:572
+msgid "1 day ago"
+msgstr ""
+
+#: admin/functions/functions.php:575
+msgid " days ago"
+msgstr ""
+
+#: admin/functions/functions.php:605
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/functions/functions.php:643
+msgid "Related Posts"
+msgstr ""
+
+#: admin/functions/functions.php:756 search.php:15
+msgid "Search results for"
+msgstr ""
+
+#: admin/functions/functions.php:797
+msgid "Full name"
+msgstr ""
+
+#: admin/functions/functions.php:803
+msgid "Email"
+msgstr ""
+
+#: admin/functions/functions.php:808
+msgid "Website URL"
+msgstr ""
+
+#: admin/functions/functions.php:824
+msgid "Comment"
+msgstr ""
+
+#: admin/functions/functions.php:829
+msgid "You must be"
+msgstr ""
+
+#: admin/functions/functions.php:829
+msgid "logged in"
+msgstr ""
+
+#: admin/functions/functions.php:829
+msgid "to post a comment."
+msgstr ""
+
+#: admin/functions/functions.php:835
+msgid "Logged in as"
+msgstr ""
+
+#: admin/functions/functions.php:835
+msgid "Log out of this account"
+msgstr ""
+
+#: admin/functions/functions.php:835
+msgid "Log out?"
+msgstr ""
+
+#: admin/functions/functions.php:851
+msgid "Leave a Reply"
+msgstr ""
+
+#: admin/functions/functions.php:852
+msgid "Leave a Reply to"
+msgstr ""
+
+#: admin/functions/functions.php:853
+msgid "<span>Cancel reply</span>"
+msgstr ""
+
+#: admin/functions/functions.php:854
+msgid "Post Comment"
+msgstr ""
+
+#: admin/functions/functions.php:874
+msgid "The author didn't add any Information to his profile yet. "
+msgstr ""
+
+#: admin/functions/portfolio.php:22
+msgid "Portfolio"
+msgstr ""
+
+#: admin/functions/portfolio.php:23
+msgid "Portfolio Item"
+msgstr ""
+
+#: admin/functions/portfolio.php:24 admin/functions/slideshow.php:17
+msgid "Add New"
+msgstr ""
+
+#: admin/functions/portfolio.php:25 admin/functions/slideshow.php:18
+msgid "Add New Item"
+msgstr ""
+
+#: admin/functions/portfolio.php:26 admin/functions/slideshow.php:19
+msgid "Edit Item"
+msgstr ""
+
+#: admin/functions/portfolio.php:27 admin/functions/slideshow.php:20
+msgid "New Item"
+msgstr ""
+
+#: admin/functions/portfolio.php:28
+msgid "View Portfolio Item"
+msgstr ""
+
+#: admin/functions/portfolio.php:29
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: admin/functions/portfolio.php:30 admin/functions/slideshow.php:23
+msgid "No items found"
+msgstr ""
+
+#: admin/functions/portfolio.php:31 admin/functions/slideshow.php:24
+msgid "No items found in Trash"
+msgstr ""
+
+#: admin/functions/portfolio.php:71 admin/functions/portfolio.php:74
+#: admin/functions/slideshow.php:65 admin/functions/slideshow.php:68
+msgid "Item updated."
+msgstr ""
+
+#: admin/functions/portfolio.php:71 admin/functions/portfolio.php:77
+#: admin/functions/slideshow.php:65 admin/functions/slideshow.php:71
+msgid "View Item"
+msgstr ""
+
+#: admin/functions/portfolio.php:72 admin/functions/slideshow.php:66
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/functions/portfolio.php:73 admin/functions/slideshow.php:67
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/functions/portfolio.php:76 admin/functions/slideshow.php:70
+msgid "Item restored to revision from"
+msgstr ""
+
+#: admin/functions/portfolio.php:77 admin/functions/slideshow.php:71
+msgid "Item published"
+msgstr ""
+
+#: admin/functions/portfolio.php:78 admin/functions/slideshow.php:72
+msgid "Item saved."
+msgstr ""
+
+#: admin/functions/portfolio.php:79 admin/functions/slideshow.php:73
+msgid "Item submitted."
+msgstr ""
+
+#: admin/functions/portfolio.php:79 admin/functions/portfolio.php:80
+#: admin/functions/portfolio.php:83 admin/functions/slideshow.php:73
+#: admin/functions/slideshow.php:74 admin/functions/slideshow.php:77
+msgid "Preview Item"
+msgstr ""
+
+#: admin/functions/portfolio.php:80 admin/functions/slideshow.php:74
+msgid "Item scheduled for:"
+msgstr ""
+
+#: admin/functions/portfolio.php:83 admin/functions/slideshow.php:77
+msgid "Item draft updated. "
+msgstr ""
+
+#: admin/functions/portfolio.php:83 admin/functions/slideshow.php:77
+msgid "preview"
+msgstr ""
+
+#: admin/functions/portfolio.php:117
+msgid "None"
+msgstr ""
+
+#: admin/functions/sidebars.php:87
+msgid "Sidebar Name:"
+msgstr ""
+
+#: admin/functions/sidebars.php:88
+msgid "Enter a name for the new sidebar."
+msgstr ""
+
+#: admin/functions/sidebars.php:156
+msgid "Here's the list of available sidebars"
+msgstr ""
+
+#: admin/functions/sidebars.php:168
+msgid "Delete"
+msgstr ""
+
+#: admin/functions/slideshow.php:16
+msgid "Slideshow Item"
+msgstr ""
+
+#: admin/functions/slideshow.php:21
+msgid "View Slideshow Item"
+msgstr ""
+
+#: admin/functions/slideshow.php:22
+msgid "Search Slideshow Items"
+msgstr ""
+
+#: admin/functions/widgets.php:20
+msgid "The most recent posts with thumbnails"
+msgstr ""
+
+#: admin/functions/widgets.php:22 admin/functions/widgets.php:35
+#: admin/functions/widgets.php:127 index.php:8
+msgid "Recent Posts"
+msgstr ""
+
+#: admin/functions/widgets.php:135 admin/functions/widgets.php:301
+#: admin/functions/widgets.php:768 admin/functions/widgets.php:971
+#: admin/functions/widgets.php:1089 admin/functions/widgets.php:1188
+msgid "Title:"
+msgstr ""
+
+#: admin/functions/widgets.php:140 admin/functions/widgets.php:510
+msgid "Number of Posts:"
+msgstr ""
+
+#: admin/functions/widgets.php:158
+msgid "Displays 6 ads blocks"
+msgstr ""
+
+#: admin/functions/widgets.php:160
+msgid "Custom Ads"
+msgstr ""
+
+#: admin/functions/widgets.php:306
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: admin/functions/widgets.php:311
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: admin/functions/widgets.php:316
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: admin/functions/widgets.php:321
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: admin/functions/widgets.php:326
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: admin/functions/widgets.php:331
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: admin/functions/widgets.php:336
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: admin/functions/widgets.php:341
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: admin/functions/widgets.php:346
+msgid "Ad 5 image url:"
+msgstr ""
+
+#: admin/functions/widgets.php:351
+msgid "Ad 5 link url:"
+msgstr ""
+
+#: admin/functions/widgets.php:356
+msgid "Ad 6 image url:"
+msgstr ""
+
+#: admin/functions/widgets.php:361
+msgid "Ad 6 link url:"
+msgstr ""
+
+#: admin/functions/widgets.php:366
+msgid "Randomize ads order?"
+msgstr ""
+
+#: admin/functions/widgets.php:388
+msgid "The most popular posts with thumbnails"
+msgstr ""
+
+#: admin/functions/widgets.php:390 admin/functions/widgets.php:412
+#: admin/functions/widgets.php:498
+msgid "Popular Posts"
+msgstr ""
+
+#: admin/functions/widgets.php:505 admin/tinymce/window_post.php:117
+#: admin/tinymce/window_post.php:185 admin/tinymce/window_post.php:225
+#: admin/tinymce/window_post.php:281
+msgid "Title: "
+msgstr ""
+
+#: admin/functions/widgets.php:529
+msgid "Recent tweets"
+msgstr ""
+
+#: admin/functions/widgets.php:531
+msgid "Recent Tweets"
+msgstr ""
+
+#: admin/functions/widgets.php:704
+msgid "Showing subpages on sidebar"
+msgstr ""
+
+#: admin/functions/widgets.php:706 admin/functions/widgets.php:722
+#: admin/functions/widgets.php:761
+msgid "Sub Pages"
+msgstr ""
+
+#: admin/functions/widgets.php:790
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: admin/functions/widgets.php:792
+msgid "Flickr"
+msgstr ""
+
+#: admin/functions/widgets.php:808
+msgid "Photos on Flickr "
+msgstr ""
+
+#: admin/functions/widgets.php:845
+msgid "Flickr ID "
+msgstr ""
+
+#: admin/functions/widgets.php:850
+msgid "Number:"
+msgstr ""
+
+#: admin/functions/widgets.php:870
+msgid "Google Maps Widget"
+msgstr ""
+
+#: admin/functions/widgets.php:872 admin/functions/widgets.php:957
+msgid "Google Map"
+msgstr ""
+
+#: admin/functions/widgets.php:887
+msgid "Map"
+msgstr ""
+
+#: admin/functions/widgets.php:976
+msgid "Zoom Level: (1-19)"
+msgstr ""
+
+#: admin/functions/widgets.php:981
+msgid "Latitude:"
+msgstr ""
+
+#: admin/functions/widgets.php:986
+msgid "Longitude:"
+msgstr ""
+
+#: admin/functions/widgets.php:991
+msgid "Map Type:"
+msgstr ""
+
+#: admin/functions/widgets.php:993
+msgid "ROADMAP"
+msgstr ""
+
+#: admin/functions/widgets.php:994
+msgid "SATELLITE"
+msgstr ""
+
+#: admin/functions/widgets.php:995
+msgid "HYBRID"
+msgstr ""
+
+#: admin/functions/widgets.php:996
+msgid "TERRAIN"
+msgstr ""
+
+#: admin/functions/widgets.php:1001
+msgid "Info Bubble Content:"
+msgstr ""
+
+#: admin/functions/widgets.php:1022
+msgid "Contact Details for Sidebar"
+msgstr ""
+
+#: admin/functions/widgets.php:1024
+msgid "Contact Details"
+msgstr ""
+
+#: admin/functions/widgets.php:1037
+msgid "Contact"
+msgstr ""
+
+#: admin/functions/widgets.php:1075
+msgid "Contact Info"
+msgstr ""
+
+#: admin/functions/widgets.php:1094
+msgid "Text:"
+msgstr ""
+
+#: admin/functions/widgets.php:1099
+msgid "Contact Details:"
+msgstr ""
+
+#: admin/functions/widgets.php:1120
+msgid "Small 40x40 clients logos"
+msgstr ""
+
+#: admin/functions/widgets.php:1122
+msgid "Logos List"
+msgstr ""
+
+#: admin/functions/widgets.php:1134
+msgid "Logos"
+msgstr ""
+
+#: admin/functions/widgets.php:1168
+msgid "Clients Logos"
+msgstr ""
+
+#: admin/functions/widgets.php:1193
+msgid "Logo Details:"
+msgstr ""
+
+#: admin/functions/woocommerce.php:95 admin/functions/woocommerce.php:172
+msgid "View your shopping cart"
+msgstr ""
+
+#: admin/functions/woocommerce.php:99
+msgid "Logout"
+msgstr ""
+
+#: admin/functions/woocommerce.php:100
+msgid "My Account"
+msgstr ""
+
+#: admin/functions/woocommerce.php:103
+msgid "Login / Register"
+msgstr ""
+
+#: admin/functions/woocommerce.php:105
+msgid "Checkout"
+msgstr ""
+
+#: admin/tinymce/window_post.php:6
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: admin/tinymce/window_post.php:37
+msgid "General"
+msgstr ""
+
+#: admin/tinymce/window_post.php:38
+msgid "Button"
+msgstr ""
+
+#: admin/tinymce/window_post.php:39
+msgid "Lists"
+msgstr ""
+
+#: admin/tinymce/window_post.php:40
+msgid "Info Boxes"
+msgstr ""
+
+#: admin/tinymce/window_post.php:41
+msgid "Titled Boxes"
+msgstr ""
+
+#: admin/tinymce/window_post.php:42
+msgid "Simple Boxes"
+msgstr ""
+
+#: admin/tinymce/window_post.php:43
+msgid "Links"
+msgstr ""
+
+#: admin/tinymce/window_post.php:51
+msgid "Select Custom Shortcode:"
+msgstr ""
+
+#: admin/tinymce/window_post.php:54
+msgid "No Style"
+msgstr ""
+
+#: admin/tinymce/window_post.php:56
+msgid "Misc"
+msgstr ""
+
+#: admin/tinymce/window_post.php:57
+msgid "Googel Map"
+msgstr ""
+
+#: admin/tinymce/window_post.php:58
+msgid "Progress Bar"
+msgstr ""
+
+#: admin/tinymce/window_post.php:60
+msgid "Testimonial"
+msgstr ""
+
+#: admin/tinymce/window_post.php:61
+msgid "Tooltip"
+msgstr ""
+
+#: admin/tinymce/window_post.php:62
+msgid "Call To Action Box"
+msgstr ""
+
+#: admin/tinymce/window_post.php:63
+msgid "Code"
+msgstr ""
+
+#: admin/tinymce/window_post.php:64
+msgid "Pre"
+msgstr ""
+
+#: admin/tinymce/window_post.php:67
+msgid "Pricing Table"
+msgstr ""
+
+#: admin/tinymce/window_post.php:68
+msgid "3 Column"
+msgstr ""
+
+#: admin/tinymce/window_post.php:69
+msgid "4 Column"
+msgstr ""
+
+#: admin/tinymce/window_post.php:70
+msgid "5 Column"
+msgstr ""
+
+#: admin/tinymce/window_post.php:73
+msgid "DropCap"
+msgstr ""
+
+#: admin/tinymce/window_post.php:74
+msgid "Drop Cap1"
+msgstr ""
+
+#: admin/tinymce/window_post.php:75
+msgid "Drop Cap2"
+msgstr ""
+
+#: admin/tinymce/window_post.php:76
+msgid "Drop Cap3"
+msgstr ""
+
+#: admin/tinymce/window_post.php:78 admin/tinymce/window_post.php:80
+msgid "Divider"
+msgstr ""
+
+#: admin/tinymce/window_post.php:79
+msgid "Divider Top"
+msgstr ""
+
+#: admin/tinymce/window_post.php:83
+msgid "Callout / Pullquote"
+msgstr ""
+
+#: admin/tinymce/window_post.php:84 admin/tinymce/window_post.php:97
+msgid "Left Aligned"
+msgstr ""
+
+#: admin/tinymce/window_post.php:85 admin/tinymce/window_post.php:98
+msgid "Right Aligned"
+msgstr ""
+
+#: admin/tinymce/window_post.php:86
+msgid "Pullquote"
+msgstr ""
+
+#: admin/tinymce/window_post.php:89
+msgid "Highlights"
+msgstr ""
+
+#: admin/tinymce/window_post.php:90
+msgid "Yello"
+msgstr ""
+
+#: admin/tinymce/window_post.php:91 admin/tinymce/window_post.php:136
+#: admin/tinymce/window_post.php:241 admin/tinymce/window_post.php:268
+msgid "Black"
+msgstr ""
+
+#: admin/tinymce/window_post.php:92 admin/tinymce/window_post.php:129
+#: admin/tinymce/window_post.php:207 admin/tinymce/window_post.php:234
+#: admin/tinymce/window_post.php:261
+msgid "Red"
+msgstr ""
+
+#: admin/tinymce/window_post.php:95
+msgid "Image alignment/lightbox"
+msgstr ""
+
+#: admin/tinymce/window_post.php:96
+msgid "Image With Lightbox Effect"
+msgstr ""
+
+#: admin/tinymce/window_post.php:99
+msgid "Centered"
+msgstr ""
+
+#: admin/tinymce/window_post.php:102
+msgid "Tabs, Accordings, Toggle"
+msgstr ""
+
+#: admin/tinymce/window_post.php:103
+msgid "Tabs"
+msgstr ""
+
+#: admin/tinymce/window_post.php:104
+msgid "Accordion"
+msgstr ""
+
+#: admin/tinymce/window_post.php:106
+msgid "Toggle"
+msgstr ""
+
+#: admin/tinymce/window_post.php:121
+msgid "Link: "
+msgstr ""
+
+#: admin/tinymce/window_post.php:126
+msgid "Color"
+msgstr ""
+
+#: admin/tinymce/window_post.php:130 admin/tinymce/window_post.php:235
+#: admin/tinymce/window_post.php:262
+msgid "Magenta"
+msgstr ""
+
+#: admin/tinymce/window_post.php:131 admin/tinymce/window_post.php:236
+#: admin/tinymce/window_post.php:263
+msgid "Pink"
+msgstr ""
+
+#: admin/tinymce/window_post.php:132 admin/tinymce/window_post.php:210
+#: admin/tinymce/window_post.php:237 admin/tinymce/window_post.php:264
+msgid "Orange"
+msgstr ""
+
+#: admin/tinymce/window_post.php:133 admin/tinymce/window_post.php:206
+#: admin/tinymce/window_post.php:238 admin/tinymce/window_post.php:265
+msgid "Green"
+msgstr ""
+
+#: admin/tinymce/window_post.php:134 admin/tinymce/window_post.php:208
+#: admin/tinymce/window_post.php:239 admin/tinymce/window_post.php:266
+msgid "Blue"
+msgstr ""
+
+#: admin/tinymce/window_post.php:135 admin/tinymce/window_post.php:240
+#: admin/tinymce/window_post.php:267
+msgid "Grey"
+msgstr ""
+
+#: admin/tinymce/window_post.php:137 admin/tinymce/window_post.php:242
+#: admin/tinymce/window_post.php:269
+msgid "Purple"
+msgstr ""
+
+#: admin/tinymce/window_post.php:141
+msgid "Size"
+msgstr ""
+
+#: admin/tinymce/window_post.php:144
+msgid "Small"
+msgstr ""
+
+#: admin/tinymce/window_post.php:145
+msgid "Medium"
+msgstr ""
+
+#: admin/tinymce/window_post.php:146
+msgid "Large"
+msgstr ""
+
+#: admin/tinymce/window_post.php:150
+msgid "Type"
+msgstr ""
+
+#: admin/tinymce/window_post.php:153
+msgid "Simple"
+msgstr ""
+
+#: admin/tinymce/window_post.php:154
+msgid "Glossy"
+msgstr ""
+
+#: admin/tinymce/window_post.php:158
+msgid "Target"
+msgstr ""
+
+#: admin/tinymce/window_post.php:168
+msgid "List Type"
+msgstr ""
+
+#: admin/tinymce/window_post.php:171
+msgid "Dotted"
+msgstr ""
+
+#: admin/tinymce/window_post.php:172
+msgid "Dashed"
+msgstr ""
+
+#: admin/tinymce/window_post.php:173
+msgid "Line"
+msgstr ""
+
+#: admin/tinymce/window_post.php:174
+msgid "Check"
+msgstr ""
+
+#: admin/tinymce/window_post.php:175
+msgid "Circle Bullet"
+msgstr ""
+
+#: admin/tinymce/window_post.php:176
+msgid "Arrow"
+msgstr ""
+
+#: admin/tinymce/window_post.php:190
+msgid "Title Link: "
+msgstr ""
+
+#: admin/tinymce/window_post.php:195
+msgid "Box Type"
+msgstr ""
+
+#: admin/tinymce/window_post.php:198
+msgid "Title Only"
+msgstr ""
+
+#: admin/tinymce/window_post.php:199
+msgid "With Description"
+msgstr ""
+
+#: admin/tinymce/window_post.php:203
+msgid "Box Color"
+msgstr ""
+
+#: admin/tinymce/window_post.php:209
+msgid "Silver"
+msgstr ""
+
+#: admin/tinymce/window_post.php:214
+msgid "font Awesome Icon"
+msgstr ""
+
+#: admin/tinymce/window_post.php:231
+msgid "Background Color"
+msgstr ""
+
+#: admin/tinymce/window_post.php:252
+msgid "Border Size (px): "
+msgstr ""
+
+#: admin/tinymce/window_post.php:258
+msgid "Border Color"
+msgstr ""
+
+#: admin/tinymce/window_post.php:285
+msgid "URL: "
+msgstr ""
+
+#: admin/tinymce/window_post.php:290
+msgid "Link Target"
+msgstr ""
+
+#: admin/tinymce/window_post.php:293
+msgid "Same Window"
+msgstr ""
+
+#: admin/tinymce/window_post.php:294
+msgid "New Window"
+msgstr ""
+
+#: admin/tinymce/window_post.php:298
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: archive.php:16
+msgid "Category : "
+msgstr ""
+
+#: archive.php:17
+msgid "Tag : "
+msgstr ""
+
+#: archive.php:23
+msgid "Author : "
+msgstr ""
+
+#: archive.php:44 author.php:44 includes/templates/single.php:106
+#: includes/templates/tpl_filtered_portfolio.php:294
+#: includes/templates/tpl_portfolio.php:311
+#: includes/templates/tpl_subblog.php:63 index.php:39 page.php:68
+#: search.php:36 taxonomy-portfolio-category.php:230 tpl_blog.php:62
+msgid "There's no post here yet!"
+msgstr ""
+
+#: archive.php:50 author.php:50
+msgid "Previous Page"
+msgstr ""
+
+#: archive.php:50 author.php:50
+msgid "Next Page"
+msgstr ""
+
+#: author.php:17
+msgid "Author Archives: "
+msgstr ""
+
+#: comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:18 content-audio.php:6 content-link.php:8 content-quote.php:6
+#: content-video.php:6 content.php:98 includes/templates/single.php:83
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:20 content-audio.php:6 content-link.php:8 content-quote.php:6
+#: content-video.php:6 content.php:98 includes/templates/single.php:83
+msgid "Comments"
+msgstr ""
+
+#: comments.php:27 comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:28 comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:29 comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:6 content-link.php:8 content-quote.php:6
+#: content-video.php:6 content.php:98
+msgid "Leave a Comment"
+msgstr ""
+
+#: content-audio.php:11 content-link.php:15 content-quote.php:11
+#: content-video.php:11 content.php:52 content.php:79 content.php:109
+msgid " Continue Reading &rarr;"
+msgstr ""
+
+#: content-audio.php:13 content-link.php:17 content-quote.php:13
+#: content-video.php:13 includes/templates/single.php:91
+msgid "Tags: "
+msgstr ""
+
+#: content.php:55 content.php:82 content.php:112
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: includes/lib/breadcrumb.php:27
+msgid "Home"
+msgstr ""
+
+#: includes/lib/breadcrumb.php:151
+msgid "404 - Page not Found"
+msgstr ""
+
+#: includes/lib/breadcrumb.php:153
+msgid "Search"
+msgstr ""
+
+#: includes/lib/wp_pagenavi.php:203
+msgid "of"
+msgstr ""
+
+#: includes/lib/wp_pagenavi.php:206
+msgid "&laquo; First"
+msgstr ""
+
+#: includes/lib/wp_pagenavi.php:207
+msgid "Last &raquo;"
+msgstr ""
+
+#: includes/related_posts.php:25
+msgid "Related Projects"
+msgstr ""
+
+#: includes/sitemap_content.php:1
+msgid "Pages"
+msgstr ""
+
+#: includes/sitemap_content.php:5
+msgid "Feeds"
+msgstr ""
+
+#: includes/sitemap_content.php:7
+msgid "Main RSS"
+msgstr ""
+
+#: includes/sitemap_content.php:8
+msgid "Comment Feed"
+msgstr ""
+
+#: includes/sitemap_content.php:12
+msgid "Categories"
+msgstr ""
+
+#: includes/sitemap_content.php:16
+msgid "Portfolio/Gallery"
+msgstr ""
+
+#: includes/sitemap_content.php:40
+msgid "Archives"
+msgstr ""
+
+#: includes/templates/single.php:83
+msgid "No Comment"
+msgstr ""
+
+#: includes/templates/single_folio.php:25
+msgid "&larr; Previous"
+msgstr ""
+
+#: includes/templates/single_folio.php:26
+msgid "Next &rarr;"
+msgstr ""
+
+#: includes/templates/single_folio.php:124
+msgid "Date:"
+msgstr ""
+
+#: includes/templates/single_folio.php:126
+msgid "Tags:"
+msgstr ""
+
+#: includes/templates/single_folio.php:153
+msgid "Tweet"
+msgstr ""
+
+#: includes/templates/tpl_filtered_portfolio.php:142
+msgid "All Categories"
+msgstr ""
+
+#: includes/templates/tpl_portfolio.php:322
+#: includes/templates/tpl_subblog.php:78 index.php:50 search.php:47
+#: taxonomy-portfolio-category.php:241 tpl_blog.php:77
+msgid "Previous"
+msgstr ""
+
+#: includes/templates/tpl_portfolio.php:323
+#: includes/templates/tpl_subblog.php:79 index.php:51 search.php:48
+#: taxonomy-portfolio-category.php:242 tpl_blog.php:78
+msgid "Next"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search.."
+msgstr ""
+
+#: tpl_contact.php:40 tpl_contact_sidebar.php:40
+msgid "Send us a message"
+msgstr ""
+
+#: tpl_contact.php:48 tpl_contact_sidebar.php:48
+msgid "Email:"
+msgstr ""
+
+#: tpl_contact.php:51 tpl_contact_sidebar.php:51
+msgid "Website URL:"
+msgstr ""
+
+#: tpl_contact.php:56 tpl_contact_sidebar.php:56
+msgid "Security Code:"
+msgstr ""
+
+#: tpl_contact.php:63 tpl_contact_sidebar.php:63
+msgid "send"
+msgstr ""
+
+#: tpl_contact.php:64 tpl_contact_sidebar.php:64
+msgid "Send"
+msgstr ""
+
+#: tpl_contact.php:65 tpl_contact_sidebar.php:65
+msgid "Reset"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:29
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d results"
+msgstr ""

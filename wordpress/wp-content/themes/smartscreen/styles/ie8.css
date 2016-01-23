@@ -1,0 +1,39 @@
+#menu-wrap {
+    z-index: auto;
+}
+.jqueryslidemenu ul li ul {
+    z-index: 999;
+}
+.magenta {
+    background-color: #C25283;
+}
+.pink {
+    background-color: #F9A7B0;
+}
+.orange {
+    background-color: #F96E5B;
+}
+.red {
+    background-color: #DC4F49;
+}
+.green {
+    background-color: #78D18B;
+}
+.blue {
+    background-color: #7CC0CB;
+}
+.grey {
+    background-color: #444;
+}
+.black {
+    background-color: #000;
+}
+.purple {
+    background-color: #9A86A2;
+}
+#wrap a.button {
+    cursor: pointer;
+}
+#wrap a.button:hover {
+    background-color: #000;
+}
